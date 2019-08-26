@@ -46,4 +46,4 @@ manifest:
       remote: armmbed
 
   self:
-    - path: nrf9160-example
+    path: nrf9160-example
