@@ -44,3 +44,6 @@ manifest:
     - name: mbedtls
       revision: mbedtls-2.13.1
       remote: armmbed
+
+  self:
+    - path: nrf9160-example
